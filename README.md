@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Francis!
 
 <p align="center">
-  <a href="https://github.com/splvrdge"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Mobile%20App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/splvrdge"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Full%20Stack%20Developer;Mobile%20App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
