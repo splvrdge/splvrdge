@@ -1,7 +1,6 @@
 # Hi, I’m Francis 👋
 
-Computer Science student and software engineer interested in building
-**Web and Mobile data-driven systems**.
+A tech guy interested in building **Web and Mobile data-driven systems**.
 
 I enjoy working close to the system level — designing workflows, APIs,
 and platforms that turn raw data into something useful.
