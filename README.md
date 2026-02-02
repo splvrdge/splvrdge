@@ -6,9 +6,11 @@ I enjoy working close to the system level — designing workflows, APIs,
 and platforms that turn raw data into something useful.
 
 ## What I work on
-- AI-assisted applications and automation pipelines  
+- AI and automation pipelines  
 - Backend systems and APIs  
-- Data-intensive platforms  
+- Data-intensive platforms
+- Full Stack Development
+- *Anything* Design 
 
 ## Tech I use
 **Languages:** Python, TypeScript, JavaScript, Java  
